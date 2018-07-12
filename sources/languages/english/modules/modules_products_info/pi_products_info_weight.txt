@@ -1,0 +1,6 @@
+
+
+ module_products_info_weight = Do you want to enable the product weight ?
+ module_products_info_weight_description = Display the product weight
+ text_display_products_weight = products weight :
+

@@ -1,0 +1,4 @@
+module_products_info_weight = Souhaitez-vous afficher le poids du produit ?
+module_products_info_weight_description = Affiche le poids du produit dans la page de description du produit
+text_display_products_weight = Poids du produit :
+
